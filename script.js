@@ -1,4 +1,3 @@
-
 const langToggle = document.getElementById("lang-toggle");
 
 const texts = {
